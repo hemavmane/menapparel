@@ -1,12 +1,13 @@
 let mendata =[   
      {
     "id": 45,
-    "title": "T-shirts",
+    "title": "ADICOLOR CLASSICS 3-STRIPES TEE ‘MINERAL GREEN’",
+    "brand":"adidas originals",
     "price": 630,
     "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
     "category": {
-        "id": 1,
-        "name": "ADICOLOR CLASSICS 3-STRIPES TEE ‘MINERAL GREEN’",
+        "id": 1, 
+        "name":"T-shirts",
         "image": "https://superkicks.in/wp-content/uploads/2022/09/HK7277-TSHIRT-850x850.jpg"
     },
     "images": [
@@ -18,12 +19,13 @@ let mendata =[
 },
 {
     "id": 46,
-    "title": "T-shirts",
+    "brand":"Nike",
+    "title": "FLIGHT HERITAGE ‘PIZARRA MINERAL’",
     "price": 328,
     "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
     "category": {
         "id": 3,
-        "name": "FLIGHT HERITAGE ‘PIZARRA MINERAL’",
+        "name": "T-shirts",
         "image": "https://superkicks.in/wp-content/uploads/2022/09/1-25-850x850.jpg"
     },
     "images": [
@@ -35,12 +37,13 @@ let mendata =[
 },
 {
     "id": 47,
-    "title": "T-shirts",
+    "brand":"Nike",
+    "title": "SPORTSWEAR ‘BLACK’",
     "price": 926,
     "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
     "category": {
         "id": 5,
-        "name": "SPORTSWEAR ‘BLACK’",
+        "name":"T-shirts",
         "image": "https://superkicks.in/wp-content/uploads/2022/09/1-22-850x850.jpg"
     },
     "images": [
@@ -52,12 +55,13 @@ let mendata =[
 },
 {
     "id": 48,
-    "title": "T-shirts",
+    "brand":"adidas originals",
+    "title":"ALL OVER PRINT MESH SHIRT ‘MULTICOLOR’",
     "price": 700,
     "description": "The Football Is Good For Training And Recreational Purposes",
     "category": {
         "id": 3,
-        "name": "ALL OVER PRINT MESH SHIRT ‘MULTICOLOR’",
+        "name":  "T-shirts",
         "image": "https://superkicks.in/wp-content/uploads/2022/08/HT1647-850x850.jpg"
     },
     "images": [
@@ -69,12 +73,13 @@ let mendata =[
 },
 {
     "id": 49,
-    "title": "Shorts",
+    "brand":"adidas originals",
+    "title": "ADIDAS ADVENTURE CARGO SHORTS ‘BLACK’",
     "price": 973,
     "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
     "category": {
         "id": 3,
-        "name": "ADIDAS ADVENTURE CARGO SHORTS ‘BLACK’",
+        "name": "Shorts",
         "image": "https://superkicks.in/wp-content/uploads/2022/08/1-117-850x850.jpg"
     },
     "images": [
@@ -85,22 +90,25 @@ let mendata =[
 },
 {
     "id": 50,
-    "title": "Rustic Steel Salad",
+    "brand":"Nike",
+    "title": "NSW SWOOSH FZ FT HOODIE",
     "price": 775,
     "description": "The beautiful range of Apple Naturalé that has an exciting mix of natural ingredients. With the Goodness of 100% Natural Ingredients",
     "category": {
         "id": 4,
-        "name": "Shoes",
-        "image": "https://api.lorem.space/image/shoes?w=640&h=480&r=3437"
+        "name": "Hoodies & Jackets",
+        "image": "https://superkicks.in/wp-content/uploads/2022/06/1-102-850x850.jpg"
     },
     "images": [
-        "https://api.lorem.space/image/shoes?w=640&h=480&r=5672",
-        "https://api.lorem.space/image/shoes?w=640&h=480&r=6956",
-        "https://api.lorem.space/image/shoes?w=640&h=480&r=3786"
+        "https://superkicks.in/wp-content/uploads/2022/06/3-82-850x850.jpg",
+        "https://superkicks.in/wp-content/uploads/2022/06/6-51-850x850.jpg",
+        "https://superkicks.in/wp-content/uploads/2022/06/4-82-850x850.jpg",
+        "https://superkicks.in/wp-content/uploads/2022/06/2-83-850x850.jpg"
     ]
 },
 {
     "id": 51,
+    "brand":"Reebok",
     "title": "IVERSON TRIO SHORT SLEEVE T-SHIRT ‘BLACK’",
     "price": 726,
     "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
@@ -117,12 +125,13 @@ let mendata =[
 },
 {
     "id": 52,
-    "title":"Pants", 
+    "brand":"Reebok",
+    "title":"VARSITY SWEAT PANTS ‘BEIGE’", 
     "price": 440,
     "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
     "category": {
         "id": 4,
-        "name":"VARSITY SWEAT PANTS ‘BEIGE’", 
+        "name":"Pants",
         "image": "https://superkicks.in/wp-content/uploads/2022/08/HY6044-4.jpg-11-850x850.jpg"
     },
     "images": [
@@ -134,12 +143,13 @@ let mendata =[
 },
 {
     "id": 53,
-    "title": "Pants",
+    "brand":"adidas originals",
+    "title":  "ADIDAS ADVENTURE RIDE TEC PANTS ‘LEGEND INK’",
     "price": 600,
     "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
     "category": {
         "id": 5,
-        "name": "ADIDAS ADVENTURE RIDE TEC PANTS ‘LEGEND INK’",
+        "name":"Pants",
         "image": "https://superkicks.in/wp-content/uploads/2022/08/1-110-850x850.jpg"
     },
     "images": [
@@ -150,12 +160,13 @@ let mendata =[
 },
 {
     "id": 54,
-    "title": "SHORTS",
+    "brand":"adidas originals",
+    "title":"TWILL SHORTS",
     "price": 965,
     "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
     "category": {
         "id": 5,
-        "name": "TWILL SHORTS",
+        "name":  "SHORTS",
         "image": "https://superkicks.in/wp-content/uploads/2022/08/1-90-850x850.jpg"
     },
     "images": [
@@ -166,12 +177,13 @@ let mendata =[
 },
 {
     "id": 55,
-    "title": "SHORTS",
-    "price": 250,
+    "brand":"Reebok",
+    "title": "EIGHTYONE WOVEN VECTOR SHORTS FOREST GREEN",
+    "price": 750,
     "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
     "category": {
         "id": 3,
-        "name": "EIGHTYONE WOVEN VECTOR SHORTS FOREST GREEN",
+        "name": "SHORTS",
         "image":"https://superkicks.in/wp-content/uploads/2021/07/H45569-1-850x850.jpg"
     },
     "images": [
@@ -182,12 +194,13 @@ let mendata =[
 },
 {
     "id": 56,
-    "title": "Shorts",
+    "brand":"Puma",
+    "title":"RICK AND MORTY BASKETBALL SHORTS", 
     "price": 550,
     "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
     "category": {
         "id": 1,
-        "name": "RICK AND MORTY BASKETBALL SHORTS",
+        "name": "Shorts",
         "image": "https://superkicks.in/wp-content/uploads/2022/02/shorts-850x850.jpg"
     },
     "images": [
@@ -197,12 +210,13 @@ let mendata =[
 },
 {
     "id": 57,
-    "title": "Shorts",
+    "brand":"adidas originals",
+    "title":"IVY PARK SWIM SHORTS ‘MEDIUM DARK KHAKI’", 
     "price": 590,
     "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
     "category": {
         "id": 5,
-        "name": "IVY PARK SWIM SHORTS ‘MEDIUM DARK KHAKI’",
+        "name": "Shorts",
         "image": "https://superkicks.in/wp-content/uploads/2022/07/1-87-850x850.jpg"
     },
     "images": [
@@ -214,12 +228,13 @@ let mendata =[
 },
 {
     "id": 58,
-    "title": "Pants",
+    "brand":"adidas originals",
+    "title": "WMN’S ALWAYS ORIGINAL LACED CUFF PANTS ‘BLACK’", 
     "price": 855,
     "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
     "category": {
         "id": 5,
-        "name": "WMN’S ALWAYS ORIGINAL LACED CUFF PANTS ‘BLACK’",
+        "name":"Pants",
         "image": "https://superkicks.in/wp-content/uploads/2022/07/1-111-850x850.jpg"
     },
     "images": [
@@ -230,12 +245,13 @@ let mendata =[
 },
 {
     "id": 59,
-    "title": "T-shirts",
+    "brand":"Nike",
+    "title": "ACG IHEARTACG SHORT SLEEVE TEE ‘SUMMIT WHITE’",
     "price": 2639,
     "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
     "category": {
         "id": 4,
-        "name": "ACG IHEARTACG SHORT SLEEVE TEE ‘SUMMIT WHITE’",
+        "name": "T-shirts",
         "image": "https://superkicks.in/wp-content/uploads/2022/08/I-ACG-1-JPEG-850x850.jpg"
     },
     "images": [
@@ -247,12 +263,13 @@ let mendata =[
 },
 {
     "id": 60,
-    "title": "Hoodies & Jackets",
+    "brand":"Rebook",
+    "title":"CLASSICS SUMMER HOODIE ‘LILAC GLOW’", 
     "price": 770,
     "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
     "category": {
         "id": 4,
-        "name": "CLASSICS SUMMER HOODIE ‘LILAC GLOW’",
+        "name": "Hoodies & Jackets",
         "image": "https://superkicks.in/wp-content/uploads/2022/08/1-44-850x850.jpg"
     },
     "images": [
@@ -264,12 +281,13 @@ let mendata =[
 },
 {
     "id": 61,
-    "title": "Hoodies & Jackets",
+    "brand":"Rebook",
+    "title": "CLASSICS SUMMER HOODIE ‘SEASIDE GREY’", 
     "price": 179,
     "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
     "category": {
         "id": 2,
-        "name": "CLASSICS SUMMER HOODIE ‘SEASIDE GREY’",
+        "name":"Hoodies & Jackets",
         "image": "https://api.lorem.space/image/watch?w=640&h=480&r=643"
     },
     "images": [
@@ -280,12 +298,13 @@ let mendata =[
 },
 {
     "id": 62,
-    "title": "T-shirts",
+    "brand":"adidas original",
+    "title":"VARSITY CREWNECK SWEATSHIRT ‘MAGIC BEIGE’",
     "price": 770,
     "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
     "category": {
         "id": 4,
-        "name": "VARSITY CREWNECK SWEATSHIRT ‘MAGIC BEIGE’",
+        "name": "T-shirts", 
         "image": "https://superkicks.in/wp-content/uploads/2022/08/1-30-850x850.jpg640&h=480&r=3437"
     },
     "images": [
@@ -296,12 +315,13 @@ let mendata =[
 },
 {
     "id": 63,
-    "title": "T-shirts",
+    "brand":"Nike",
+    "title":"JORDAN 23 ENGINEERED STATEMENT T-SHIRT", 
     "price": 249,
     "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
     "category": {
         "id": 5,
-        "name": "JORDAN 23 ENGINEERED STATEMENT T-SHIRT",
+        "name": "T-shirts",
         "image":" https://superkicks.in/wp-content/uploads/2022/08/1-28-850x850.jpg"
     },
     "images": [
@@ -313,12 +333,13 @@ let mendata =[
 },
 {
     "id": 64,
-    "title": "Pants",
+    "brand":"adidas original",
+    "title":  "ALLOVER PRINT CUFFED JOGGERS",
     "price": 430,
     "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
     "category": {
         "id": 1,
-        "name": "ALLOVER PRINT CUFFED JOGGERS",
+        "name":"Pants",
         "image": "https://superkicks.in/wp-content/uploads/2022/08/1-19-850x850.jpg"
     },
     "images": [
@@ -329,12 +350,13 @@ let mendata =[
 },
 {
     "id": 65,
-    "title": "T-shirts",
+    "brand":"Reebok",
+    "title":"IVERSON TRIO SHORT SLEEVE T-SHIRT", 
     "price": 845,
     "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
     "category": {
         "id": 5,
-        "name": "IVERSON TRIO SHORT SLEEVE T-SHIRT",
+        "name":"T-shirts", 
         "image": "https://superkicks.in/wp-content/uploads/2022/08/1-7-850x850.jpg"
     },
     "images": [
@@ -345,12 +367,13 @@ let mendata =[
 },
 {
     "id": 66,
-    "title": "T-shirts",
+    "brand":"adidas originals",
+    "title": "ADVENTURE RIDE T-SHIRT",
     "price": 1000,
     "description": "New range of formal shirts are designed keeping you in mind. With fits and styling that will make you stand apart",
     "category": {
         "id": 5,
-        "name": "ADVENTURE RIDE T-SHIRT",
+        "name": "T-shirts",
         "image": "https://superkicks.in/wp-content/uploads/2022/08/1-10-850x850.jpg"
     },
     "images": [
@@ -361,18 +384,19 @@ let mendata =[
 },
 {
     "id": 67,
-    "title": "Shorts",
+    "brand":"Superkicks",
+    "title":"SNEAKER FREAKER POSTER TEE",
     "price": 337,
     "description": "Andy shoes are designed to keeping in mind durability as well as trends, the most stylish range of shoes & sandals",
     "category": {
         "id": 3,
-        "name": "ALLOVER PRINT MESH SHORTS ‘MULTICOLOR’",
-        "image": "https://superkicks.in/wp-content/uploads/2022/08/1-91-850x850.jpg"
+        "name":  "Shorts",
+        "image": "https://superkicks.in/wp-content/uploads/2022/07/2-25-1-850x850.jpg"
     },
     "images": [
-        "https://superkicks.in/wp-content/uploads/2022/08/F6-ECOMS-2-850x850.jpg",
-        "https://superkicks.in/wp-content/uploads/2022/08/2-88-850x850.jpg",
-        "https://superkicks.in/wp-content/uploads/2022/08/3-85-850x850.jpg"
+        "https://superkicks.in/wp-content/uploads/2022/07/1-32-1-850x850.jpg",
+        "https://superkicks.in/wp-content/uploads/2022/07/3-23-1-850x850.jpg",
+        "https://superkicks.in/wp-content/uploads/2022/07/4-25-2-850x850.jpg"
     ]
 },
 {
@@ -409,18 +433,19 @@ let mendata =[
 },
 {
     "id": 70,
-    "title": "Shorts",
+    "brand":"adidas originals",
+    "title": "TWILL SHIRT",
     "price": 848,
     "description": "The Football Is Good For Training And Recreational Purposes",
     "category": {
         "id": 5,
-        "name": "TWILL SHIRT",
-        "image": "https://superkicks.in/wp-content/uploads/2022/08/1.-850x850.jpg"
+        "name": "Shorts",
+        "image": "https://superkicks.in/wp-content/uploads/2022/06/1-30-850x850.jpg"
     },
     "images": [
-        "https://superkicks.in/wp-content/uploads/2022/08/2-89-850x850.jpg",
-        "https://superkicks.in/wp-content/uploads/2022/08/3-86-850x850.jpg",
-        "https://superkicks.in/wp-content/uploads/2022/08/4-81-850x850.jpg"
+        "https://superkicks.in/wp-content/uploads/2022/06/4-24-850x850.jpg",
+        "https://superkicks.in/wp-content/uploads/2022/06/3-24-850x850.jpg",
+        "https://superkicks.in/wp-content/uploads/2022/06/2-24-850x850.jpg"
     ]
 },]
 
@@ -432,17 +457,18 @@ men_input.addEventListener("click",showapparel)
 
 function showapparel(){
         for(let i=0; i<mendata.length; i++){
-            let apparelhtml= `<div class="mendata1">
+            let apparelhtml= 
+            `<div class="mendata1">
           <p>${mendata[i].id}</p>
+          <p>${mendata[i].brand}</p>
           <p>${mendata[i].title}</p>
-          <p>price=${mendata[i].price}</p>
-          <p>description=${mendata[i].description}</p>
-          <p>catogory=${mendata[i].category}</p>
-          <p>id=${mendata[i]["category"].id}</p>
-          <p>name=${mendata[i]["category"].name}</p>
+          <p>${mendata[i].price}</p>
+          <p>${mendata[i].description}</p>
+          <p>${mendata[i]["category"].id}</p>
+          <p>${mendata[i]["category"].name}</p>
           <img src="${mendata[i]["category"].image}" alt="">
           <img src="${mendata[i]["images"][0]}" alt="">
-          <img src="${mendata[i]["images"][1]}" alt="">
+           <img src="${mendata[i]["images"][1]}" alt="">
           <img src="${mendata[i]["images"][2]}" alt="">
           <img src="${mendata[i]["images"][3]}" alt="">
           </div>`
